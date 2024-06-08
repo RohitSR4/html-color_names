@@ -1,0 +1,58 @@
+html
+{
+    background-color:#ACFADF;
+}
+
+.center
+{
+    text-align: center;
+}
+
+.mhead
+{
+    
+    background-color: #91C8E4;
+    font-size:40pt;
+    
+}
+
+.e{
+    background-color:#91C8E4;
+    
+}
+
+.head
+{
+    font-size:35px;
+    font-weight: 600;
+}
+
+*
+{
+    font-family: 'Caveat', cursive;
+font-family: 'Tiro Devanagari Marathi', serif;
+text-align: center;
+}
+
+#purple
+{
+    color:purple;
+}
+#red
+{
+    color:red;
+}
+#green
+{color:green;}
+#blue
+{color:blue;}
+#yellow
+{color:yellow;}
+#black
+{color:black;}
+#rakha
+{color:grey;}
+#sky
+{color:skyblue;}
+#white
+{color:white;}
